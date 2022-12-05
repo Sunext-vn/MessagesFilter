@@ -1,0 +1,16 @@
+messages:
+  reload: "&aTải lại plugin thành công!"
+  add-filter: "&aThêm thành công filter &f' &e{FILTER} &f'!"
+  remove-filter: "&aXóa thành công filter &f' &e{FILTER} &f'!"
+  already-have-filter: "&cKhông thể thêm filter &e{FILTER}&c, vì đã có từ trước!"
+  filter-list: "&aDanh sách các filter:"
+  no-permission: "&cBạn không có quyền dùng lệnh này."
+  invalid-number: "&cSố không hợp lệ"
+  filter-not-found: "&cKhông tìm thấy filter đó, xin hãy kiểm tra lại!"
+  commands:
+    - ""
+    - " &f/&cmfilter reload &7- Tải lại plugin thành công"
+    - " &f/&cmfilter add &f<&afilter_message...&f> &7- Thêm filter mới"
+    - " &f/&cmfilter remove &f<&athứ tự&f> &7- Xóa filter"
+    - " &f/&cmfilter list &7- Danh sách filter"
+    - ""

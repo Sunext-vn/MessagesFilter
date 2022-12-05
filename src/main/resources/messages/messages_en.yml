@@ -1,0 +1,16 @@
+messages:
+  reload: "&aReload complete!"
+  add-filter: "&aSuccessfully adding &f' &e{FILTER} &f'!"
+  remove-filter: "&aSuccessfully removing &f' &e{FILTER} &f'!"
+  already-have-filter: "&cCannot add &e{FILTER}&c, we already have that!"
+  filter-list: "&aYour current filter list:"
+  no-permission: "&cYou do not have permission to use this command."
+  invalid-number: "&cThat number is invalid"
+  filter-not-found: "&cThat filter doesn't exist, please check again!"
+  commands:
+    - ""
+    - " &f/&cmfilter reload &7- Reload the plugin"
+    - " &f/&cmfilter add &f<&afilter_message...&f> &7- Add a new filter message"
+    - " &f/&cmfilter remove &f<&anumber&f> &7- Remove a filter message"
+    - " &f/&cmfilter list &7- Filter messages list"
+    - ""

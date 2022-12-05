@@ -1,0 +1,14 @@
+name: MessagesFilter
+version: '${project.version}'
+main: vn.sunext.messagesfilter.MessagesFilter
+api-version: 1.13
+authors: [ sunext_team, HiImSunny ]
+
+depend: [ProtocolLib]
+
+commands:
+  messagesfilter:
+    aliases:
+      - messagefilter
+      - messfilter
+      - mfilter

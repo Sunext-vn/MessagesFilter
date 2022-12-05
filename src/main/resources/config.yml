@@ -1,0 +1,13 @@
+prefix: "&cMessagesFilter &6>&r "
+
+lang: en # Choose your language: en, vn.
+
+options:
+  allow-op: true # Use commands without permissions
+
+permissions:
+  admin: "messagesfilter.admin"
+
+filter-messages:
+  - "Hey! Sorry, but you can't break that block here."
+  - "Khu An Toàn does not allow you to edit the terrain."
